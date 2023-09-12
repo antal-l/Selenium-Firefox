@@ -1,0 +1,16 @@
+{
+  "name": "selenium-firefox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node decathlon_test01.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "geckodriver": "^4.2.1",
+    "selenium-webdriver": "^4.12.0"
+  }
+}
